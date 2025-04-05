@@ -4,9 +4,10 @@ import {
 import { GitHubIcon, LinkedInIcon, XIcon } from "../components/icons";
 
 export const RESUME_DATA = {
-  name: "Your Name",
-  initials: "YN",
-  location: " Lorem Ipsum, DOL",
+  name: "Mehreen Mallick Fiona",
+  initials: "MMF",
+  title: "Software Engineer",
+  location: " Dhaka, Bangladesh",
   locationLink: "https://www.google.com/maps/",
   about:
     "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
